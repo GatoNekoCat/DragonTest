@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://420:blazeit@dragon1-lerfn.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "bigolFatJWTtokenItellyouhwhat"
+}
